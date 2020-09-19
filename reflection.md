@@ -1,4 +1,4 @@
-*Canadian Digital Archaeology: On Boundaries and Futures*
+#*Canadian Digital Archaeology: On Boundaries and Futures*
   "Likewise, there are those who argue that digital archae-ology should be recognized as a distinct subfield  (Graham  et  al.  2017),  which  stands  in  contrast  with  those  who  see  it  as permeable or universal to all archaeol-ogy (Evans et al. 2006:7)."
   I find this to be such a facinating perspecive, I personally believe digital archaeology is absolutely universal, and should be used more to allow more access for the public to experience and learn without the risk of damage (which can simply happen with time no matter how hard someone tries to preserve an artifact)
-  Great example would be the Ingenium digital archives program [link] https://ingeniumcanada.org/education/3d-educational-resources which allows people to even print the artifact at home and experience it for themselves
+  Great example would be the Ingenium digital archives program [link]https://ingeniumcanada.org/education/3d-educational-resources which allows people to even print the artifact at home and experience it for themselves
